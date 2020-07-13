@@ -21,8 +21,9 @@
       "scale" : "3x"
     },
     {
-      "idiom" : "iphone",
       "size" : "40x40",
+      "idiom" : "iphone",
+      "filename" : "IMG-2404.JPG",
       "scale" : "2x"
     },
     {
@@ -86,8 +87,9 @@
       "scale" : "2x"
     },
     {
-      "idiom" : "ios-marketing",
       "size" : "1024x1024",
+      "idiom" : "ios-marketing",
+      "filename" : "IMG-2198 (1).jpg",
       "scale" : "1x"
     }
   ],
